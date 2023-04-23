@@ -1,4 +1,4 @@
-local hotkey = "n" -- toggle key
+local hotkey = "q" -- toggle key
 local mouse = game.Players.LocalPlayer:GetMouse()
 
 
